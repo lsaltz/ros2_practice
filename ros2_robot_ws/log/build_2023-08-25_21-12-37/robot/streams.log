@@ -1,0 +1,42 @@
+[0.008s] Invoking command in '/home/grimmlins/ros2_robot_ws/build/robot': CMAKE_PREFIX_PATH=/opt/ros/humble /home/grimmlins/.local/bin/cmake /home/grimmlins/ros2_robot_ws/src/robot -DCMAKE_INSTALL_PREFIX=/home/grimmlins/ros2_robot_ws/install/robot
+[0.054s] -- The C compiler identification is GNU 11.4.0
+[0.087s] -- The CXX compiler identification is GNU 11.4.0
+[0.093s] -- Detecting C compiler ABI info
+[0.128s] -- Detecting C compiler ABI info - done
+[0.135s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.135s] -- Detecting C compile features
+[0.136s] -- Detecting C compile features - done
+[0.138s] -- Detecting CXX compiler ABI info
+[0.178s] -- Detecting CXX compiler ABI info - done
+[0.186s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.186s] -- Detecting CXX compile features
+[0.186s] -- Detecting CXX compile features - done
+[0.188s] -- Found ament_cmake: 1.3.5 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.403s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.12") found components: Interpreter 
+[0.456s] -- Found ament_lint_auto: 0.12.7 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.504s] -- Added test 'lint_cmake' to check CMake code style
+[0.505s] -- Added test 'xmllint' to check XML markup files
+[0.506s] -- Configuring done (0.5s)
+[0.507s] -- Generating done (0.0s)
+[0.508s] -- Build files have been written to: /home/grimmlins/ros2_robot_ws/build/robot
+[0.514s] Invoked command in '/home/grimmlins/ros2_robot_ws/build/robot' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /home/grimmlins/.local/bin/cmake /home/grimmlins/ros2_robot_ws/src/robot -DCMAKE_INSTALL_PREFIX=/home/grimmlins/ros2_robot_ws/install/robot
+[0.515s] Invoking command in '/home/grimmlins/ros2_robot_ws/build/robot': CMAKE_PREFIX_PATH=/opt/ros/humble /home/grimmlins/.local/bin/cmake --build /home/grimmlins/ros2_robot_ws/build/robot -- -j16 -l16
+[0.542s] Invoked command in '/home/grimmlins/ros2_robot_ws/build/robot' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /home/grimmlins/.local/bin/cmake --build /home/grimmlins/ros2_robot_ws/build/robot -- -j16 -l16
+[0.587s] Invoking command in '/home/grimmlins/ros2_robot_ws/build/robot': CMAKE_PREFIX_PATH=/opt/ros/humble /home/grimmlins/.local/bin/cmake --install /home/grimmlins/ros2_robot_ws/build/robot
+[0.603s] -- Install configuration: ""
+[0.603s] -- Installing: /home/grimmlins/ros2_robot_ws/install/robot/share/ament_index/resource_index/package_run_dependencies/robot
+[0.603s] -- Installing: /home/grimmlins/ros2_robot_ws/install/robot/share/ament_index/resource_index/parent_prefix_path/robot
+[0.603s] -- Installing: /home/grimmlins/ros2_robot_ws/install/robot/share/robot/environment/ament_prefix_path.sh
+[0.603s] -- Installing: /home/grimmlins/ros2_robot_ws/install/robot/share/robot/environment/ament_prefix_path.dsv
+[0.603s] -- Installing: /home/grimmlins/ros2_robot_ws/install/robot/share/robot/environment/path.sh
+[0.603s] -- Installing: /home/grimmlins/ros2_robot_ws/install/robot/share/robot/environment/path.dsv
+[0.603s] -- Installing: /home/grimmlins/ros2_robot_ws/install/robot/share/robot/local_setup.bash
+[0.603s] -- Installing: /home/grimmlins/ros2_robot_ws/install/robot/share/robot/local_setup.sh
+[0.603s] -- Installing: /home/grimmlins/ros2_robot_ws/install/robot/share/robot/local_setup.zsh
+[0.604s] -- Installing: /home/grimmlins/ros2_robot_ws/install/robot/share/robot/local_setup.dsv
+[0.604s] -- Installing: /home/grimmlins/ros2_robot_ws/install/robot/share/robot/package.dsv
+[0.604s] -- Installing: /home/grimmlins/ros2_robot_ws/install/robot/share/ament_index/resource_index/packages/robot
+[0.604s] -- Installing: /home/grimmlins/ros2_robot_ws/install/robot/share/robot/cmake/robotConfig.cmake
+[0.604s] -- Installing: /home/grimmlins/ros2_robot_ws/install/robot/share/robot/cmake/robotConfig-version.cmake
+[0.604s] -- Installing: /home/grimmlins/ros2_robot_ws/install/robot/share/robot/package.xml
+[0.607s] Invoked command in '/home/grimmlins/ros2_robot_ws/build/robot' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /home/grimmlins/.local/bin/cmake --install /home/grimmlins/ros2_robot_ws/build/robot

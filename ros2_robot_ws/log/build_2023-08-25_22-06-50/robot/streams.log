@@ -1,0 +1,32 @@
+[0.010s] Invoking command in '/home/grimmlins/ros2_robot_ws/build/robot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /home/grimmlins/.local/bin/cmake --build /home/grimmlins/ros2_robot_ws/build/robot -- -j16 -l16
+[0.039s] Invoked command in '/home/grimmlins/ros2_robot_ws/build/robot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /home/grimmlins/.local/bin/cmake --build /home/grimmlins/ros2_robot_ws/build/robot -- -j16 -l16
+[0.089s] Invoking command in '/home/grimmlins/ros2_robot_ws/build/robot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /home/grimmlins/.local/bin/cmake --install /home/grimmlins/ros2_robot_ws/build/robot
+[0.107s] -- Install configuration: ""
+[0.107s] -- Up-to-date: /home/grimmlins/ros2_robot_ws/install/robot/share/robot/launch
+[0.107s] -- Up-to-date: /home/grimmlins/ros2_robot_ws/install/robot/share/robot/launch/robo.launch.py
+[0.107s] -- Up-to-date: /home/grimmlins/ros2_robot_ws/install/robot/share/robot/robot
+[0.108s] -- Up-to-date: /home/grimmlins/ros2_robot_ws/install/robot/share/robot/robot/wheel2.dae
+[0.108s] -- Up-to-date: /home/grimmlins/ros2_robot_ws/install/robot/share/robot/robot/wheel4.dae
+[0.108s] -- Up-to-date: /home/grimmlins/ros2_robot_ws/install/robot/share/robot/robot/wheel3.dae
+[0.108s] -- Up-to-date: /home/grimmlins/ros2_robot_ws/install/robot/share/robot/robot/model.config
+[0.108s] -- Up-to-date: /home/grimmlins/ros2_robot_ws/install/robot/share/robot/robot/wheel1.dae
+[0.108s] -- Up-to-date: /home/grimmlins/ros2_robot_ws/install/robot/share/robot/robot/simcarbody.dae
+[0.108s] -- Up-to-date: /home/grimmlins/ros2_robot_ws/install/robot/share/robot/robot/model.sdf
+[0.108s] -- Up-to-date: /home/grimmlins/ros2_robot_ws/install/robot/share/robot/world
+[0.108s] -- Up-to-date: /home/grimmlins/ros2_robot_ws/install/robot/share/robot/world/robo.world
+[0.108s] -- Up-to-date: /home/grimmlins/ros2_robot_ws/install/robot/share/ament_index/resource_index/package_run_dependencies/robot
+[0.108s] -- Up-to-date: /home/grimmlins/ros2_robot_ws/install/robot/share/ament_index/resource_index/parent_prefix_path/robot
+[0.108s] -- Up-to-date: /home/grimmlins/ros2_robot_ws/install/robot/share/robot/environment/ament_prefix_path.sh
+[0.108s] -- Up-to-date: /home/grimmlins/ros2_robot_ws/install/robot/share/robot/environment/ament_prefix_path.dsv
+[0.108s] -- Up-to-date: /home/grimmlins/ros2_robot_ws/install/robot/share/robot/environment/path.sh
+[0.108s] -- Up-to-date: /home/grimmlins/ros2_robot_ws/install/robot/share/robot/environment/path.dsv
+[0.108s] -- Up-to-date: /home/grimmlins/ros2_robot_ws/install/robot/share/robot/local_setup.bash
+[0.108s] -- Up-to-date: /home/grimmlins/ros2_robot_ws/install/robot/share/robot/local_setup.sh
+[0.108s] -- Up-to-date: /home/grimmlins/ros2_robot_ws/install/robot/share/robot/local_setup.zsh
+[0.108s] -- Up-to-date: /home/grimmlins/ros2_robot_ws/install/robot/share/robot/local_setup.dsv
+[0.108s] -- Installing: /home/grimmlins/ros2_robot_ws/install/robot/share/robot/package.dsv
+[0.108s] -- Up-to-date: /home/grimmlins/ros2_robot_ws/install/robot/share/ament_index/resource_index/packages/robot
+[0.109s] -- Up-to-date: /home/grimmlins/ros2_robot_ws/install/robot/share/robot/cmake/robotConfig.cmake
+[0.109s] -- Up-to-date: /home/grimmlins/ros2_robot_ws/install/robot/share/robot/cmake/robotConfig-version.cmake
+[0.109s] -- Up-to-date: /home/grimmlins/ros2_robot_ws/install/robot/share/robot/package.xml
+[0.112s] Invoked command in '/home/grimmlins/ros2_robot_ws/build/robot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /home/grimmlins/.local/bin/cmake --install /home/grimmlins/ros2_robot_ws/build/robot

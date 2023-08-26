@@ -1,0 +1,4 @@
+Invoking command in '/home/grimmlins/ros2_robot_ws/build/robot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /home/grimmlins/.local/bin/cmake --build /home/grimmlins/ros2_robot_ws/build/robot -- -j16 -l16
+Invoked command in '/home/grimmlins/ros2_robot_ws/build/robot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /home/grimmlins/.local/bin/cmake --build /home/grimmlins/ros2_robot_ws/build/robot -- -j16 -l16
+Invoking command in '/home/grimmlins/ros2_robot_ws/build/robot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /home/grimmlins/.local/bin/cmake --install /home/grimmlins/ros2_robot_ws/build/robot
+Invoked command in '/home/grimmlins/ros2_robot_ws/build/robot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /home/grimmlins/.local/bin/cmake --install /home/grimmlins/ros2_robot_ws/build/robot
